@@ -6,13 +6,11 @@ hero:
   name: "EmulationOniOS"
   text: "A guide for all things iOS Emulation"
   tagline: My great project tagline
+
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Start Here!
+      link: /emulators
 
 features:
   - title: Feature A

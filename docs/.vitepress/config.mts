@@ -14,7 +14,7 @@ export default defineConfig({
       text: 'Edit this page on GitHub'
     },
   lastUpdated: {
-    text: 'Updated at',
+    text: 'Last updated at',
      formatOptions: {
       dateStyle: 'full',
       timeStyle: 'medium'
@@ -27,22 +27,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Available Emulators', link: '/emulators' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'EmulationOniOS',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      },
-      {
-        text: 'TEst',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Available Emulators', link: '/emulators' }
         ]
       }
     ],
