@@ -7,6 +7,17 @@ export default defineConfig({
   description: "A guide for all things iOS Emulation",
   lastUpdated: true,
   themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/DidiDidi129/EmulationOniOS/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
+  lastUpdated: {
+    text: 'Updated at',
+     formatOptions: {
+      dateStyle: 'full',
+      timeStyle: 'medium'
+      }
+    },
     search: {
       provider: 'local'
     },
