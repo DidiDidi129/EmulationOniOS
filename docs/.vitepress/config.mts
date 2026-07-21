@@ -4,7 +4,6 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "EmulationOniOS",
-  base: '/EmulationOniOS/',
   cleanUrls: true,
   description: "A guide for all things iOS Emulation",
   lastUpdated: true,
