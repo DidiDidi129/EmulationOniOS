@@ -31,7 +31,13 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'EmulationOniOS',
+        text: 'Info',
+        items: [
+          { text: 'Available Emulators', link: '/emulators' }
+        ]
+      },
+      {
+        text: 'Guides',
         items: [
           { text: 'Available Emulators', link: '/emulators' }
         ]
