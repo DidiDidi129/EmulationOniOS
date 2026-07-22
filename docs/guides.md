@@ -41,5 +41,3 @@ lastUpdated: true
 |:-|:-|
 |[Setting up retroarch playlists with FBNeo](https://neo-source.com/index.php?topic=3725.0)|FBNeo Team|
 |[Creating a Package on iDos 3](https://litchie.com/2020/10/idos2-icloud)|litchie (iDos Dev)|
-
-*Last updated: September 17, 2025*
