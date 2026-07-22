@@ -109,16 +109,6 @@ Note that only some well-known recommended systems are listed, and these emulato
 |Xbox|DukeX|
 |Xbox 360|XeniOS|
 
-# Web-Based Emulators
-
-|Emulator|Link|Platforms|
-|:-|:-|:-|
-|44VBA|[44VBA](https://gba.44670.org/)|GBA|
-|AfterPlay|[AfterPlay](https://afterplay.io/)|Multiple|
-|Aurora|[Aurora](https://skitty.xyz/aurora/go/index.html)|Multiple|
-|DS Player|[DS Player](https://ds.44670.org/)|Nintendo DS|
-|EmulatorJS|[EmulatorJS](https://demo.emulatorjs.org/)|Multiple| |eNGE|[eNGE](https://kootstra-rene.github.io/enge-js)|PS1| |Game Play Color|[Game Play Color](https://gameplaycolor.com/)|Gameboy Color| |RetroGamesBot|[RetroGamesBot](https://retrogamesbot.com/)|Multiple| |Skyemu|[Skyemu](https://web.skyemu.app/)|GBA| |webЯcade|[webЯcade](https://www.webrcade.com/)|Multiple|
-
 # Online Tools
 
 * [RetroPad Editor](https://valent-in.github.io/retropad-editor/)
