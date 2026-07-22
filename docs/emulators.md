@@ -16,7 +16,8 @@ Emulators written in **bold** are recommended (highly known emulators).
 |**Emulator**|**Sideload Link**|**App Store Link / Status**|**Price**|**Platform(s)**|**Is on AltStore?**|
 |:-|:-|:-|:-|:-|:-|
 |AD Boy\*|N/A|[AD Boy](https://apps.apple.com/us/app/ad-boy-all-in-one-emulator/id6478694589)|Free|Multiple||
-|Alune|[Alune](https://github.com/alune-app/Releases/releases)|[Alune](https://testflight.apple.com/join/jDZ4BM99)|Free|PS2|| |ArcEmu<sup>W</sup>|N/A|[ArcEmu](https://apps.apple.com/us/app/arcemu-watch-emulator/id6496282733)|$|GB/GBC/GBA|| 
+|Alune|[Alune](https://github.com/alune-app/Releases/releases)|[Alune](https://testflight.apple.com/join/jDZ4BM99)|Free|PS2||
+|ArcEmu^W|N/A|[ArcEmu](https://apps.apple.com/us/app/arcemu-watch-emulator/id6496282733)|$|GB/GBC/GBA|| 
 |ArcadeMania|[MAME4iOS](https://github.com/yoshisuga/MAME4iOS/releases)|[ArcadeMania](https://apps.apple.com/us/app/arcademania/id6496971234)|Free|Arcade (MAME)|| 
 |ARMSX2|[ARMSX2](https://github.com/ARMSX2/ARMSX2/releases)|N/A|Free|PS2||
 |BigPEmu|N/A|[BigPEmu](https://apps.apple.com/us/app/bigpemu/id6737359949)|$|Atari Jaguar||
@@ -40,7 +41,7 @@ Emulators written in **bold** are recommended (highly known emulators).
 |Linking Boy|N/A|[Linking Boy](https://apps.apple.com/us/app/linking-boy/id6695762604)|Free|GBA|| 
 |MAME4iOS|[MAME4iOS](https://github.com/yoshisuga/MAME4iOS/releases)|[ArcadeMania](https://apps.apple.com/us/app/arcademania/id6496971234)|Free|Arcade (MAME)|| 
 |**Manic EMU**|[Manic EMU](https://github.com/Manic-EMU/ManicEMU/releases)|[Manic EMU](https://apps.apple.com/us/app/manic-emu-3ds-game-emulator/id6743335790)|Free|Multiple / All|| 
-|Mini vMac|[Mini vMac](https://github.com/zydeco/minivmac4ios/releases)|N/A|N/A|Mac OS classic|| |NiN10<sup>W</sup>|N/A|[NiN10](https://apps.apple.com/us/app/nin10/id6503959130)|$|GB/GBC/NES/SNES|| 
+|Mini vMac|[Mini vMac](https://github.com/zydeco/minivmac4ios/releases)|N/A|N/A|Mac OS classic|| |NiN10^W|N/A|[NiN10](https://apps.apple.com/us/app/nin10/id6503959130)|$|GB/GBC/NES/SNES|| 
 |**Picpic**|N/A|[Picpic](https://apps.apple.com/us/app/pico-8-emulator-picpic/id6759208792)|Free|Pico-8|| 
 |Play!|[Play!](https://purei.org/downloads.php)|N/A|N/A|PS2|| 
 |Plume|N/A|N/A|N/A|Dreamcast||
