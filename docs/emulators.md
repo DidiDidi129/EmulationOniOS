@@ -17,11 +17,11 @@ Emulators written in **bold** are recommended (highly known emulators).
 |:-|:-|:-|:-|:-|:-|
 |AD Boy\*|N/A|[AD Boy](https://apps.apple.com/us/app/ad-boy-all-in-one-emulator/id6478694589)|Free|Multiple||
 |Alune|[Alune](https://github.com/alune-app/Releases/releases)|[Alune](https://testflight.apple.com/join/jDZ4BM99)|Free|PS2||
-|ArcEmu^W|N/A|[ArcEmu](https://apps.apple.com/us/app/arcemu-watch-emulator/id6496282733)|$|GB/GBC/GBA|| 
+|ArcEmu⁽ʷ⁾|N/A|[ArcEmu](https://apps.apple.com/us/app/arcemu-watch-emulator/id6496282733)|$|GB/GBC/GBA|| 
 |ArcadeMania|[MAME4iOS](https://github.com/yoshisuga/MAME4iOS/releases)|[ArcadeMania](https://apps.apple.com/us/app/arcademania/id6496971234)|Free|Arcade (MAME)|| 
 |ARMSX2|[ARMSX2](https://github.com/ARMSX2/ARMSX2/releases)|N/A|Free|PS2||
 |BigPEmu|N/A|[BigPEmu](https://apps.apple.com/us/app/bigpemu/id6737359949)|$|Atari Jaguar||
-|Consoles^V|N/A|[Consoles](https://apps.apple.com/us/app/consoles/id6738750683)|$|Multiple|| 
+|Consoles⁽ᵛ⁾|N/A|[Consoles](https://apps.apple.com/us/app/consoles/id6738750683)|$|Multiple|| 
 |**Delta** / Legacy|[Delta](https://github.com/rileytestut/Delta/releases)|[Delta](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) / [Delta Legacy](https://apps.apple.com/us/app/delta-legacy/id6504887406)|Free / Free|Multiple|Yes| 
 |**DolphiniOS**|[DolphiniOS](https://github.com/OatmealDome/dolphin-ios/releases)|N/A|Free|Gamecube/Wii|Yes| 
 |DukeX|[DukeX](https://github.com/MaftyManicEMU/DukeX/releases)|N/A|Free|Xbox|Yes
@@ -41,7 +41,8 @@ Emulators written in **bold** are recommended (highly known emulators).
 |Linking Boy|N/A|[Linking Boy](https://apps.apple.com/us/app/linking-boy/id6695762604)|Free|GBA|| 
 |MAME4iOS|[MAME4iOS](https://github.com/yoshisuga/MAME4iOS/releases)|[ArcadeMania](https://apps.apple.com/us/app/arcademania/id6496971234)|Free|Arcade (MAME)|| 
 |**Manic EMU**|[Manic EMU](https://github.com/Manic-EMU/ManicEMU/releases)|[Manic EMU](https://apps.apple.com/us/app/manic-emu-3ds-game-emulator/id6743335790)|Free|Multiple / All|| 
-|Mini vMac|[Mini vMac](https://github.com/zydeco/minivmac4ios/releases)|N/A|N/A|Mac OS classic|| |NiN10^W|N/A|[NiN10](https://apps.apple.com/us/app/nin10/id6503959130)|$|GB/GBC/NES/SNES|| 
+|Mini vMac|[Mini vMac](https://github.com/zydeco/minivmac4ios/releases)|N/A|N/A|Mac OS classic||
+|NiN10⁽ʷ⁾|N/A|[NiN10](https://apps.apple.com/us/app/nin10/id6503959130)|$|GB/GBC/NES/SNES|| 
 |**Picpic**|N/A|[Picpic](https://apps.apple.com/us/app/pico-8-emulator-picpic/id6759208792)|Free|Pico-8|| 
 |Play!|[Play!](https://purei.org/downloads.php)|N/A|N/A|PS2|| 
 |Plume|N/A|N/A|N/A|Dreamcast||
@@ -61,7 +62,7 @@ Emulators written in **bold** are recommended (highly known emulators).
 |TailFin|N/A|[TailFin](https://testflight.apple.com/join/zJAF6tCc)|Free|Wii U|| 
 |UTM SE|[UTM SE](https://github.com/utmapp/UTM/releases)|[UTM SE](https://apps.apple.com/us/app/utm-se-retro-pc-emulator/id1564628856)|Free|Retro PCs|| 
 |Vion|[Vion](https://jarrodnorwell.com/vion/)|N/A|Free|PS Vita||
-|VirtualFriend^V|N/A|[VirtualFriend](https://apps.apple.com/us/app/virtualfriend-vb-emulator/id6479948317)|Free|Nintendo|| 
+|VirtualFriend⁽ᵛ⁾|N/A|[VirtualFriend](https://apps.apple.com/us/app/virtualfriend-vb-emulator/id6479948317)|Free|Nintendo|| 
 |VirtualKim|N/A|[VirtualKim](https://apps.apple.com/us/app/virtualkim-6502-emulator/id1548356829)|Free|KIM-1/Apple-1||
 |XeniOS|[XeniOS](https://github.com/xenios-jp/XeniOS/releases)|N/A|Free|Xbox 360||
 |Yaba Sanshiro 2 / Lite|N/A|[Yaba Sanshiro 2](https://apps.apple.com/us/app/yaba-sanshiro-2/id1549144351) / [Yaba Sanshiro 2 Lite](https://apps.apple.com/us/app/yaba-sanshiro-2-lite/id6630365688)|$ / Free|Sega Saturn|| 
@@ -69,8 +70,8 @@ Emulators written in **bold** are recommended (highly known emulators).
 
 * \[\*\] - These emulators are not recommended by the general community. They may contain trackers, annoying ads, collect your data, or are otherwise buggy. They are safe to use, but better options may be available.
 * \[N/A\] - Data is not available at the moment, it may be updated in the future.
-* \[^W\] - Also available on Apple Watch
-* \[^V\] - Also available on Apple Vision Pro
+* \[⁽ʷ⁾\] - Also available on Apple Watch
+* \[⁽ᵛ⁾\] - Also available on Apple Vision Pro
 
 # By Platform
 
