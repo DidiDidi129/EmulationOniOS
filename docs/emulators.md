@@ -8,7 +8,7 @@ lastUpdated: true
 
 These emulators can be installed by either sideloading, downloading through Jailbreak apps e.g. Sileo, or downloading from app stores such as Apple's App Store or AltStore.
 
-# By Emulator
+## By Emulator
 
 [iOS Emulator Compability Table](https://www.reddit.com/r/EmulationOniOS/s/hznOEKaG4h)  
 Emulators written in **bold** are recommended (highly known emulators).
@@ -73,7 +73,7 @@ Emulators written in **bold** are recommended (highly known emulators).
 * \[⁽ʷ⁾\] - Also available on Apple Watch
 * \[⁽ᵛ⁾\] - Also available on Apple Vision Pro
 
-# By Platform
+## By Platform
 
 Note that only some well-known recommended systems are listed, and these emulators may support even more lesser-known platforms.
 
