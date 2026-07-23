@@ -3,11 +3,13 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 
 export default defineConfig({
+  head: [['link', { rel: 'icon', href: 'https://github.com/DidiDidi129/EmulationOniOS/raw/refs/heads/main/logo.ico' }]],
   title: "EmulationOniOS",
   cleanUrls: true,
   description: "A guide for all things iOS Emulation",
   lastUpdated: true,
   themeConfig: {
+    logo: 'https://github.com/DidiDidi129/EmulationOniOS/blob/main/logo.png?raw=true',
     editLink: {
       pattern: 'https://github.com/DidiDidi129/EmulationOniOS/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
@@ -22,13 +24,10 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
-
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Available Emulators', link: '/emulators' }
     ],
-
     sidebar: [
       {
         text: 'Info',
@@ -44,7 +43,6 @@ export default defineConfig({
         ]
       }
     ],
-
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/kYBAgeM6SE' },
       { icon: 'reddit', link: 'https://reddit.com/r/EmulationOniOS' }

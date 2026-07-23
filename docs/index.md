@@ -6,6 +6,9 @@ hero:
   name: "EmulationOniOS"
   text: "A guide for all things iOS Emulation"
   tagline: My great project tagline
+  image:
+    src: https://github.com/DidiDidi129/EmulationOniOS/blob/main/logo.png?raw=true
+    alt: Logo
 
   actions:
     - theme: brand
