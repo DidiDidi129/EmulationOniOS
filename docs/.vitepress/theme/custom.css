@@ -3,6 +3,12 @@
   --vp-c-brand-2: #9b7f62;
   --vp-c-brand-3: #b59f8a;
   --vp-button-brand-text: #dfdfd6;
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #675b52 50%,
+    #8c6947 50%
+  );
+  --vp-home-hero-image-filter: blur(75px);
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #906f4c, #9b7f62);
 }
