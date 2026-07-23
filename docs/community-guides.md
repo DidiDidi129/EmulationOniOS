@@ -3,7 +3,7 @@ outline: deep
 
 lastUpdated: true
 ---
-# Community Guides
+# Community/Misc Guides
 
 ## Guides on our Subreddit
 
