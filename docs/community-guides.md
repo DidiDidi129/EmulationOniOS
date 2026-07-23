@@ -3,9 +3,9 @@ outline: deep
 
 lastUpdated: true
 ---
-# Reddit Guides
+# Community Guides
 
-## Our Guides
+## Guides on our Subreddit
 
 |**Guide Name**|**Guide Author**|
 |:-|:-|

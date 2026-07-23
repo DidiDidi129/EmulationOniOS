@@ -39,7 +39,8 @@ export default defineConfig({
       {
         text: 'Guides',
         items: [
-          { text: 'Guides', link: '/guides' }
+          { text: 'Guides', link: '/community-guides' },
+          { text: 'ROM Dumping Guides', link: '/dumping' }
         ]
       }
     ],
