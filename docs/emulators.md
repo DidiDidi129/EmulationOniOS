@@ -20,6 +20,7 @@ Emulators written in **bold** are recommended (highly known emulators).
 |ArcEmu⁽ʷ⁾|N/A|[ArcEmu](https://apps.apple.com/us/app/arcemu-watch-emulator/id6496282733)|$|GB/GBC/GBA|| 
 |ArcadeMania|[MAME4iOS](https://github.com/yoshisuga/MAME4iOS/releases)|[ArcadeMania](https://apps.apple.com/us/app/arcademania/id6496971234)|Free|Arcade (MAME)|| 
 |ARMSX2|[ARMSX2](https://github.com/ARMSX2/ARMSX2/releases)|N/A|Free|PS2||
+|MeloNX|[MeloNX](https://git.ryujinx.app/projects/MeloNX/releases/latest)|N/A|Free|Nintendo Switch||
 |BigPEmu|N/A|[BigPEmu](https://apps.apple.com/us/app/bigpemu/id6737359949)|$|Atari Jaguar||
 |Consoles⁽ᵛ⁾|N/A|[Consoles](https://apps.apple.com/us/app/consoles/id6738750683)|$|Multiple|| 
 |**Delta** / Legacy|[Delta](https://github.com/rileytestut/Delta/releases)|[Delta](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) / [Delta Legacy](https://apps.apple.com/us/app/delta-legacy/id6504887406)|Free / Free|Multiple|Yes| 
