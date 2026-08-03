@@ -24,7 +24,8 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Available Emulators', link: '/emulators' }
+      { text: 'Info', link: '/emulators' },
+      { text: 'Guides', link: '/guides-community' }
     ],
     sidebar: [
       {
