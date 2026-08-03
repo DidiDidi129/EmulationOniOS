@@ -32,9 +32,13 @@ export default defineConfig({
       {
         text: 'Info',
         items: [
+          { text: 'Available Emulators', link: '/emulators' }
+        ]
+        text: 'Guides',
+        items: [
           { text: 'Available Emulators', link: '/emulators' },
           {
-            text: 'Guides',
+            text: 'External Guides',
             base: '/guides-',
             items: [
               { text: 'Community Guides', link: 'community' },
@@ -43,6 +47,7 @@ export default defineConfig({
           }
         ]
       }
+
     ],
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/kYBAgeM6SE' },
