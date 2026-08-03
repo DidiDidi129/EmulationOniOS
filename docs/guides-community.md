@@ -28,14 +28,14 @@ lastUpdated: true
 |[ArcadeMania - Beginner's Guide](https://www.reddit.com/r/EmulationOniOS/s/Nl7KM3b19x)|GiLND|
 |[\[Guide\] Fix rom association with your emulator](https://www.reddit.com/r/EmulationOniOS/s/3bJPx5GKQA)|GiLND|
 
-## Other Subreddits
+## Guides on Other Subreddits
 
 |**Guide Name**|**Guide Author**|
 |:-|:-|
 |[Folium Perfectly Optimized Settings](https://www.reddit.com/r/iosgaming/comments/1daly4g/folium_perfectly_optimized_settings/)|SiI3ntSigiI|
 |[Complete Guide to Sideloading on iOS](https://www.reddit.com/r/sideloaded/s/OiIwYloLwP)|the1procrastinator|
 
-## External Guides
+## Guides not on reddit
 
 |**Guide Name**|**Guide Author**|
 |:-|:-|
