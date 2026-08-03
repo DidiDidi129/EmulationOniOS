@@ -14,11 +14,11 @@ export default defineConfig({
       pattern: 'https://github.com/DidiDidi129/EmulationOniOS/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
-  lastUpdated: {
-    text: 'Last updated at',
-     formatOptions: {
-      dateStyle: 'full',
-      timeStyle: 'medium'
+    lastUpdated: {
+      text: 'Last updated at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
       }
     },
     search: {
@@ -32,7 +32,7 @@ export default defineConfig({
       {
         text: 'Info',
         items: [
-          { text: 'Available Emulators', link: '/emulators' }
+          { text: 'Available Emulators', link: '/emulators' },
           {
             text: 'Guides',
             base: '/guides/guides-',
@@ -42,8 +42,7 @@ export default defineConfig({
             ]
           }
         ]
-      },
-      
+      }
     ],
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/kYBAgeM6SE' },
