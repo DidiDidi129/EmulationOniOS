@@ -1,7 +1,5 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
-
 export default defineConfig({
   head: [['link', { rel: 'icon', href: 'https://github.com/DidiDidi129/EmulationOniOS/raw/refs/heads/main/logo.ico' }]],
   title: "EmulationOniOS",
@@ -34,6 +32,8 @@ export default defineConfig({
         items: [
           { text: 'Available Emulators', link: '/emulators' }
         ]
+      },
+      {
         text: 'Guides',
         items: [
           { text: 'Available Emulators', link: '/emulators' },
@@ -47,7 +47,6 @@ export default defineConfig({
           }
         ]
       }
-
     ],
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/kYBAgeM6SE' },
