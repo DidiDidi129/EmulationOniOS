@@ -36,7 +36,6 @@ export default defineConfig({
       {
         text: 'Guides',
         items: [
-          { text: 'Available Emulators', link: '/emulators' },
           {
             text: 'External Guides',
             base: '/guides-',
