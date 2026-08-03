@@ -33,16 +33,17 @@ export default defineConfig({
         text: 'Info',
         items: [
           { text: 'Available Emulators', link: '/emulators' }
+          {
+            text: 'Guides',
+            base: '/reference/guides-',
+            items: [
+              { text: 'Community Guides', link: 'community' },
+              { text: 'ROM Dumping Guides', link: 'dumping' }
+            ]
+          }
         ]
       },
-      {
-        text: 'Guides',
-        base: '/reference/guides-',
-        items: [
-          { text: 'Community Guides', link: 'community' },
-          { text: 'ROM Dumping Guides', link: 'dumping' }
-        ]
-      }
+      
     ],
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/kYBAgeM6SE' },
