@@ -29,14 +29,16 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Info',
+        collapsed: false,
         items: [
           { text: 'Available Emulators', link: '/emulators' },
-          { text: 'Developer AMA's', link: '/developer-qa' }
+          { text: 'Developer AMA\'s', link: '/developer-qa' }
 
         ]
       },
       {
         text: 'Guides',
+        collapsed: false,
         items: [
           {
             text: 'External Guides',
