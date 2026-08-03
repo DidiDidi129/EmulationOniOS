@@ -31,7 +31,7 @@ export default defineConfig({
         text: 'Info',
         items: [
           { text: 'Available Emulators', link: '/emulators' },
-          { text: 'Developer AMA's', link: '/developer-qa' },
+          { text: 'Developer AMA's', link: '/developer-qa' }
 
         ]
       },
